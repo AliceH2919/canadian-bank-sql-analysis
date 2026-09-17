@@ -84,5 +84,5 @@ canadian-bank-sql-analysis/
 ├── bank_stock.db
 ├── analysis_queries.sql
 ├── README.md
-└── notebook.ipynb
+└── bank_stock_analysis.ipynb
 ```
